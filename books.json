@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "genre": "Realismo mágico",
+    "year": 1967
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Distopía",
+    "year": 1949
+  },
+  {
+    "title": "El señor de los anillos.",
+    "author": "J.R.Tolkien",
+    "genre": "Fantasia",
+    "year": 1954
+  },
+  {
+    "title": "El gran Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Novela",
+    "year": 1925
+  },
+  {
+    "title": "El temor de un hombre sabio",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantasia",
+    "year": 2015
+  }
+]
