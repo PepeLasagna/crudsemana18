@@ -1,0 +1,22 @@
+{
+  "name": "practicando-crud",
+  "version": "1.0.0",
+  "description": "semana 18 practicando crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PepeLasagna/crudsemana18.git"
+  },
+  "keywords": [
+    "grupo1"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PepeLasagna/crudsemana18/issues"
+  },
+  "homepage": "https://github.com/PepeLasagna/crudsemana18#readme"
+}
